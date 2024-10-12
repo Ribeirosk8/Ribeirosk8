@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Amauri Ribeiro</h1>
+<h1 align="right">Hi there 👋, I'm Amauri Ribeiro</h1>
 
 ## 👨🏻‍💻  About Me
 
@@ -6,6 +6,38 @@
 * 🌱  I like creating simplified solutions and love to explore new technologies.
 * ✍️  In my free time, I listen to music, read books, and go for long walks.
 * 💬 I am currently looking for a job opportunity in SE (software Engineering) , DE (Data Engineering) & DS (Data Science) . Feel free to reach out to me if you want to work together, volunteering, or just for some interesting discussion.
+
+  🛠  Tech Stack
+
+Languages
+
+Java  TypeScript  Python  JavaScript  
+
+Backend Frameworks
+
+Spring Boot Node.js 
+
+Databases
+
+MySQL  Cassandra  PostgreSQL  MongoDB 
+
+Frontends
+
+React  Vue.JS  Angular  Android 
+
+HTML  CSS  Bootstrap Vuetify Tailwind CSS
+
+IDE
+
+Visual Studio Code  Jupyter Notebook 
+
+⚙️  GitHub Analytics
+
+  
+
+🤝🏻  Connect with Me
+
+ 
 
 
 
