@@ -6,7 +6,7 @@
 * 🔭 I’m currently open for **internship**
 * 🌱  I like creating simplified solutions and love to explore new technologies.
 * ✍️  In my free time, I listen to music, read books, and go for long walks.
-* 💬 I am currently looking for a job opportunity in SE (software Engineering) , DE (Data Engineering) & DS (Data Science) . Feel free to reach out to me if you want to work together, volunteering, or just for some interesting discussion.
+* 💬 I am currently looking for a job opportunity in SE (software Engineering) , Cybersecurity & DS (Data Science) . Feel free to reach out to me if you want to work together, volunteering, or just for some interesting discussion.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ribeirosk8&label=Profile%20views&color=0e75b6&style=flat" alt="ribeirosk8" /> </p>
 
