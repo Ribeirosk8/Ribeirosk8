@@ -3,7 +3,6 @@
 ## 👨🏻‍💻  About Me
 
 * 💡  I’m an Undergraduate Senior Software Engineer student (2025), learning in areas of Software Engineering , Cybersecurity and Data Science.
-* 🔭  Texas Tech University **internship** student.
 * 🌱  I like creating simplified solutions and love to explore new technologies.
 * ✍️  In my free time, I listen to music, read books, and go for long walks.
 * 💬  I am currently looking for a job opportunity in SE (software Engineering) , Cybersecurity & DS (Data Science) . Feel free to reach out to me if you want to work together, volunteering, or just for some interesting discussion.
