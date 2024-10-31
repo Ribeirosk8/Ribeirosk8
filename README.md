@@ -1,11 +1,11 @@
-<h1 align="left">Hi there 👋, I'm Amauri Ribeiro</h1>
+<h1 align="left">👋 Hi there, I'm Amauri Ribeiro</h1>
 
 ## 👨🏻‍💻  About Me
 
 * 💡  I’m an Undergraduate Senior Software Engineer student (2025), learning in areas of Software Engineering , Cybersecurity and Data Science.
 * 🌱  I like creating simplified solutions and love to explore new technologies.
 * ✍️  In my free time, I listen to music, read books, and go for long walks.
-* 💬  I am currently looking for a job opportunity in SE (software Engineering) , Cybersecurity & DS (Data Science) . Feel free to reach out to me if you want to work together, volunteering, or just for some interesting discussion.
+* 💬  Feel free to reach out to me if you want to work together or just for some interesting discussion.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ribeirosk8&label=Profile%20views&color=0e75b6&style=flat" alt="ribeirosk8" /> </p>
 
