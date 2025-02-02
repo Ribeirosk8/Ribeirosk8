@@ -2,7 +2,7 @@
 
 ## 👨🏻‍💻  About Me
 
-* 💡  I’m an Undergraduate Senior Software Engineer student (2025), learning in areas of Software Engineering , Cybersecurity and Data Science.
+* 💡  I’m an Undergraduate Software Engineer senior student (2025), learning in areas of Software Engineering , Cybersecurity and Data Science.
 * 🌱  I like creating simplified solutions and love to explore new technologies.
 * ✍️  In my free time, I listen to music, read books, and go for long walks.
 * 💬  Feel free to reach out to me if you want to work together or just for some interesting discussion.
