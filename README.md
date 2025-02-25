@@ -7,9 +7,6 @@
 * ✍️  In my free time, I listen to music, read books, and go for long walks.
 * 💬  Feel free to reach out to me if you want to work together or just for some interesting discussion.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ribeirosk8&label=Profile%20views&color=0e75b6&style=flat" alt="ribeirosk8" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ribeirosk8" alt="ribeirosk8" /></a> </p>
 
 
 
