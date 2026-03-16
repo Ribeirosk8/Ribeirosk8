@@ -2,9 +2,9 @@
 
 ## 👨🏻‍💻  About Me
 
-* 💡  I’m a PhD Candidate at Texas Tech University,Software Engineer Bsc., learning in areas of Software Engineering , Data Visualization and Cybersecurity.
+* 💡  I’m a PhD Candidate at Texas Tech University,Software Engineer Bsc., learning in areas of Software Engineering , Data Visualization, HPCC and Cybersecurity.
 * 🌱  I like creating simplified solutions and love to explore new technologies.
-* ✍️  In my free time, I listen to music, read books, and go for long walks.
+* ✍️  In my free time, I listen to music, read books, go for long walks, swin and jiu-jitsu.
 * 💬  Feel free to reach out to me if you want to work together or just for some interesting discussion.
 
 
